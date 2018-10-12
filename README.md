@@ -1,6 +1,6 @@
 # Getting started
 
-You will need the beta version of xCode and a device running the iOS 11 beta (make sure you only install the beta software on a test device!).
+You will need xCode v 10 and a device running the iOS 12 
 
 ### CoreML Model
 
